@@ -78,10 +78,12 @@ Free limits change often. Check the tool's own pricing page before you rely on i
 | [NotebookLM](https://notebooklm.google.com) | Google research tool that turns your sources into summaries and Audio Overviews | Free with a Google account | Studying and research from your own documents |
 | [Perplexity](https://perplexity.ai) | AI search that answers with sources and citations | Free tier | Research with cited sources |
 | [Hugging Face](https://huggingface.co) | Open platform to try thousands of free and open AI models | Free to browse and try models | Trying open models and finding datasets |
+| [JournalCompass](https://journalcompass.com/) | Free bilingual journal search and AI matcher covering 43,499 journals, with CAS rankings, impact factors, review times, and APCs | Free | Finding the right journal to submit to |
 
 ## How to contribute
 
-Found a free tool that should be here, or one that stopped being free? Open an issue or a pull request with the tool name, link, category, and what its free tier gives. One honest line each, no paid-only tools, no trials passed off as free. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Found a free tool that should be here, or one that stopped being free? Open an issue or a pull request with the tool name, link, category, and what its free tier gives. One honest line each, no paid-only 
+| [JournalCompass](https://journalcompass.com/) | Free bilingual journal tools, no trials passed off as free. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Also by the same author
 
